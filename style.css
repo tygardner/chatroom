@@ -20,6 +20,7 @@ body {
 
 .main-container h1 {
   text-align: center;
+
 }
 
 .text-box {
@@ -31,4 +32,10 @@ p{
   text-align: center;
   margin: 3px 0;
   font-size: 17px;
+}
+
+.btn {
+  margin: 5px auto;
+  width: 40%;
+  display: block;
 }
